@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<h1">Hi 👋, My name is Abhishek Kumar</h1>
+<h3">Web Developer</h3>
+<p>Hello, I'm Abhishek Kumar, a passionate Full Stack Developer dedicated to creating web solutions that seamlessly combine great design with flawless functionality. My expertise lies in JavaScript and TypeScript, with a specialization in the React framework. I've successfully completed coding bootcamps, providing me with a solid foundation in React, Node.js, Express, and MongoDB, expanding my capabilities. As a quick learner, I thrive on adapting to emerging technologies and industry best practices. My collaborative approach involves working closely with clients to understand their needs, enabling me to deliver efficient, scalable, and user-friendly solutions. With a commitment to solving real-world problems, I bring innovation and a meticulous mindset to every project.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicrypt&label=Profile%20views&color=0e75b6&style=flat" alt="abhicrypt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
